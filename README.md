@@ -77,7 +77,6 @@ You can view the full C source code for the project in the [`main.c`](./main.c) 
 Below are some screenshots of the project layout and simulation:
 
 ![Screenshot 1](./Screenshot%202026-05-10%20233153.png)
-![Screenshot 2](./Screenshot%202026-05-11%20014121.png)
 ![Screenshot 3](./Screenshot%202026-05-11%20014258.png)
 ![Screenshot 4](./Screenshot%202026-05-11%20014336.png)
 ![Screenshot 5](./Screenshot%202026-05-11%20014423.png)
