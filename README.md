@@ -28,38 +28,47 @@ This project is a simulation/prototype of a hardware-based music controller buil
 <table>
   <tr>
     <th colspan="3">Inputs (Port 0)</th>
+    <th width="50"></th>
     <th colspan="3">Outputs (Port 0 & Port 1)</th>
   </tr>
   <tr>
     <td><b>Component</b></td><td><b>Pin</b></td><td><b>Description</b></td>
+    <td></td>
     <td><b>Component</b></td><td><b>Pin</b></td><td><b>Description</b></td>
   </tr>
   <tr>
     <td>Power Button</td><td>P0.0</td><td>Toggles system power state</td>
+    <td></td>
     <td>Red LED</td><td>P0.7</td><td>System Off indicator</td>
   </tr>
   <tr>
     <td>Play Button</td><td>P0.1</td><td>Toggles Play/Pause state</td>
+    <td></td>
     <td>Green LED</td><td>P0.8</td><td>Playing indicator</td>
   </tr>
   <tr>
     <td>Next Button</td><td>P0.2</td><td>Advances to next track</td>
+    <td></td>
     <td>Yellow LED</td><td>P0.9</td><td>Paused indicator</td>
   </tr>
   <tr>
     <td>Prev Button</td><td>P0.3</td><td>Goes back to previous track</td>
+    <td></td>
     <td>Buzzer</td><td>P0.16</td><td>Audio feedback</td>
   </tr>
   <tr>
     <td>Vol+ Button</td><td>P0.4</td><td>Increases volume (max 10)</td>
+    <td></td>
     <td>LCD RS</td><td>P1.16</td><td>LCD Register Select</td>
   </tr>
   <tr>
     <td>Vol- Button</td><td>P0.5</td><td>Decreases volume (min 1)</td>
+    <td></td>
     <td>LCD EN</td><td>P1.18</td><td>LCD Enable</td>
   </tr>
   <tr>
     <td>Mode Button</td><td>P0.6</td><td>Cycles through POP, ROCK, JAZZ</td>
+    <td></td>
     <td>LCD Data</td><td>P1.24 - P1.31</td><td>8-bit LCD Data Bus</td>
   </tr>
 </table>
