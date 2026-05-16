@@ -1,4 +1,4 @@
-# Hardware Music Controller (LPC2138)
+# Hardware Music Controller (LPC2138) - Course Project
 
 This project is a simulation/prototype of a hardware-based music controller built around the ARM7 LPC2138 microcontroller. It features a complete user interface with tactile buttons, LED status indicators, a buzzer, and an LCD display to emulate the behavior of a physical music player. The project is designed using the Proteus Design Suite.
 
